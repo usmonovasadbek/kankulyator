@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id" />
+    <item name="etFirstNumber" type="id" />
+    <item name="etSecondNumber" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnSubtract" type="id" />
+    <item name="btnMultiply" type="id" />
+</resources>
